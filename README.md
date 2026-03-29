@@ -1,6 +1,8 @@
 # fqardl
 Fourier Quantile ARDL (Autoregressive Distributed Lag) (FQARDL) Model Use fqardl With STATA 19
 
+https://www.youtube.com/watch?v=5J_wWz8rKfo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
